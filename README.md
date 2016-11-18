@@ -3,7 +3,7 @@
 
 
 
-
+ ![image](https://github.com/NNMMbaby/YNSegment/blob/master/hahaha.gif)
 
 
 很简单的 分段选择器 单页面的
